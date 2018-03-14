@@ -33,6 +33,7 @@ manager: angrobe
  These update versions are key to understanding the incremental version of your System Center Configuration Manager installation, and what features you have available to enable in your deployment.
 
  The initial release of System Center Configuration Manager current branch is version 1511. Since this initial release, additional updates are available. Use the following links to discover what’s new with each version that remains in support:
+  - [What's new in version 1710](../../../core/plan-design/changes/whats-new-in-version-1710.md) 
   - [What's new in version 1706](../../../core/plan-design/changes/whats-new-in-version-1706.md)  
   - [What's new in version 1702](../../../core/plan-design/changes/whats-new-in-version-1702.md)
   - [What's new in version 1610](../../../core/plan-design/changes/whats-new-in-version-1610.md)
